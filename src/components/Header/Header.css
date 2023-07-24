@@ -1,0 +1,48 @@
+.header-bar {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 245px;
+  padding-right: 245px;
+  background-color: #000000;
+}
+.header-location, .header-nav-list li a, .header-info, .header-phone {
+  font-weight: 700;
+  font-size: 10px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.header-location {
+  padding-left: 28px;
+  background: url("/public/images/location.png") no-repeat;
+}
+.header-info {
+  margin-top: 5px;
+}
+.header-nav-list {
+  gap: 20px;
+  list-style-type: none;
+}
+.header-nav-list li a {
+  text-decoration: none;
+}
+.header-phone {
+  margin-top: 6px;
+  font-size: 13px;
+}
+.header-logo {
+  width: -moz-fit-content;
+  width: fit-content;
+  margin: 24px auto;
+}
+.header-categories {
+  margin-top: 38px;
+  list-style-type: none;
+  padding-left: 245px;
+  padding-right: 245px;
+}
+.header-categories li {
+  font-weight: 700;
+  font-size: 13px;
+  text-transform: uppercase;
+  color: #111111;
+}/*# sourceMappingURL=Header.css.map */
